@@ -1,4 +1,4 @@
-# Anime Pics Generator [Link]()
+# Anime Pics Generator [Link](https://abhilashtengli.github.io/Anime-pics-Generator/)
 
 This is a simple web application that allows you to generate random anime pictures using the Unsplash API.
 
